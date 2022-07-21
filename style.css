@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+*{
+    font-family: 'Raleway', sans-serif;
+}
+.resim img{
+    height: 650px !important;
+}
+.navbar{
+    opacity: 0.9;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+.ayrac{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.i-gri{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border:10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+.i-beyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border:10px solid #fff;
+    background-color: #fff;
+}
+.resim7{
+    height: 310px;
+}
+.card img:hover{
+    opacity: 0.8;
+}
+.figure:hover{
+    opacity: 0.8;
+}
+.iletisim{
+    background-color: #fff;
+}
+.form-control{
+    width: 700px;
+    margin-bottom: 10px;
+}
+label{
+    text-align: left;
+    align-self: center;
+}
+.submit{
+    width: 350px;
+}
